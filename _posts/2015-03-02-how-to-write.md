@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 机器学习项目展示1
+date: 2021-3-02
 categories: blog
 tags: [标签一,标签二]
-description: 文章金句。
+description: COMP9414: Artificial Intelligence Assignment 2: Topic Classification
 ---
-
 This assignment is inspired by a typical real-life scenario. Imagine you have been hired as a Data
 Scientist by a major news organization. Your job is to analyse the news feed to determine the
 topic of incoming news articles so they can be organized and distributed to your readers.
