@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 机器学习项目展示
-date: 2015-3-02
+date: 2021-10-12
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [Machine Learning,NLP]
+description: machine learning
 ---
+
 This assignment is inspired by a typical real-life scenario. Imagine you have been hired as a Data
 Scientist by a major news organization. Your job is to analyse the news feed to determine the
 topic of incoming news articles so they can be organized and distributed to your readers.
